@@ -1,0 +1,1 @@
+alert(adapter.browserDetails.browser);
